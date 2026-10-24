@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900
+name = Hoshiyama Mod Menu
+path = "Splatoon/Mods/Hoshiyama Mod Menu"
+description = Hoshiyama's offline mod menu for Splatoon US v288 (Fly, Scene Jumper, Bot Battle). Open/close with L-Stick click. Do not enable together with OneShotted or Fly.
+version = 7
